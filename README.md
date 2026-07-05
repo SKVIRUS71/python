@@ -1,5 +1,5 @@
-#python
-Simple test program: small calculator CLI.
+# python 
+# Simple test program: small calculator CLI.
 
 Usage:
 
